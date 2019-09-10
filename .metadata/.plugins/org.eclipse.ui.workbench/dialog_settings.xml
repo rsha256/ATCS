@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="dialogHeight" value="900"/>
+		<item key="dialogWidth" value="777"/>
+		<list key="orderedElements">
+			<item value="org.eclipse.ui.preferencePages.ColorsAndFonts"/>
+			<item value="org.eclipse.ui.views.ContentOutline"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.ui.preferences"/>
+			<item value="org.eclipse.e4.ui.parts"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="appea"/>
+			<item value="outl"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="331"/>
+		<item key="DIALOG_Y_ORIGIN" value="93"/>
+	</section>
+	<section name="ImportExportAction">
+	</section>
+	<section name="FileSystemImportWizard">
+	</section>
+</section>

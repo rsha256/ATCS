@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Permutations&apos; to &apos;Permutation&apos;&#x0D;&#x0A;- Original project: &apos;Recursion&apos;&#x0D;&#x0A;- Original element: &apos;Permutations&apos;&#x0D;&#x0A;- Renamed element: &apos;Permutation&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Permutations&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Permutations.java[Permutations" matchStrategy="1" name="Permutation" qualified="false" references="true" similarDeclarations="false" stamp="1568115773542" textual="false" version="1.0"/>
+</session>
