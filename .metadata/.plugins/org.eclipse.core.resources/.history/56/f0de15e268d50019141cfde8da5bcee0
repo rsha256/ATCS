@@ -1,0 +1,18 @@
+package grid;
+
+public class Grid {
+
+	int a, b;
+	String[][] grid;
+
+	public Grid(int a, int b, String[][] grid) {
+		setGrid(a, b, grid);
+	}
+
+	public void setGrid(int a, int b, String[][] grid) {
+		this.a = a;
+		this.b = b;
+		this.grid = grid;
+	}
+
+}

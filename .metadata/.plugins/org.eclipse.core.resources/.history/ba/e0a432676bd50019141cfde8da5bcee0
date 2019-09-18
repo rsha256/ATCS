@@ -1,0 +1,50 @@
+package maze;
+
+public class Maze {
+	public Maze(char[][] m, int i, int j) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String args[]) {
+
+		char[][] m = {
+
+				{ '*', ' ', '*', '*', '*', '*', '*', '*', '*' }, { '*', ' ', ' ', ' ', ' ', ' ', '*', ' ', '*' },
+				{ '*', ' ', '*', '*', '*', '*', '*', ' ', '*' }, { '*', ' ', '*', ' ', '*', ' ', ' ', ' ', '*' },
+				{ '*', ' ', '*', '.', '*', '*', '*', ' ', '*' }, { '*', ' ', ' ', ' ', '*', ' ', ' ', ' ', '*' },
+				{ '*', '*', '*', ' ', '*', ' ', '*', ' ', '*' }, { '*', ' ', ' ', ' ', ' ', ' ', '*', ' ', '*' },
+				{ '*', '*', '*', '*', '*', '*', '*', '*', '*' } };
+		Maze maze = new Maze(m, 4, 3);
+		maze.display();
+		if (maze.findExit())
+			System.out.println("There is an exit at (" + maze.getIExit() + ", " + maze.getIExit() + ")");
+
+		else
+			System.out.println("No exit was found");
+		System.out.println();
+		System.out.println();
+		maze.display();
+		System.out.println("Steps:" + maze.getSteps());
+	}
+
+	private boolean findExit() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	private void display() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private String getIExit() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	private String getSteps() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

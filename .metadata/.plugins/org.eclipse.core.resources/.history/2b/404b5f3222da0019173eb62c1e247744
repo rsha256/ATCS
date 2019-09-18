@@ -1,0 +1,101 @@
+import java.util.ArrayList;
+
+public class Grid {
+
+	int x=0, y=0;
+
+	String[] myGrid;
+
+	int max1 = 0;
+	
+	public Grid(int x, int y, String[] myGrid) {
+		setGrid(x, y, myGrid);
+	}
+
+	public void setGrid(int x, int y, String[] myGrid) {
+		this.x = x;
+		this.y = y;
+
+		myGrid = myGrid;
+
+		x1 = new int[grid.length];
+		x2 = new int[grid.length];
+		x3 = new int[grid.length];
+		x4 = new int[grid.length];
+		x5 = new int[grid.length];
+		x6 = new int[grid.length];
+
+		myGrid = new String[a][b];
+
+		for (int i = 0; i < myGrid.length; i++) {
+			for (int j = 0; j < myGrid[0].length; j++) {
+				int tmp = ((int) (grid.length * Math.random()));
+
+				myGrid[i][j] = grid[tmp];
+
+			}
+		}
+	}
+
+	public void findMaxH(int a, int b) {
+		if (exists(a, b + 1)) {
+			int c = 0;
+			for (String s : gGrid) {
+				if (myGrid[a][b + 1].equals(s)) {
+					x1[c] = x1[c] + 1;
+				}
+				c++;
+			}
+			findMax(a, b + 1);
+		}
+		if (exists(a, b - 1)) {
+			int c = 0;
+			for (String s : gGrid) {
+				if (myGrid[a][b - 1].equals(s)) {
+					x1[c] = x1[c] + 1;
+				}
+				c++;
+			}
+			findMax(a, b + 1);
+		}
+		if (exists(a + 1, b)) {
+			int c = 0;
+			for (String s : gGrid) {
+				if (myGrid[a + 1][b].equals(s)) {
+					x1[c] = x1[c] + 1;
+				}
+				c++;
+			}
+			findMax(a, b + 1);
+		}
+		if (exists(a - 1, b)) {
+			int c = 0;
+			for (String s : gGrid) {
+				if (myGrid[a - 1][b].equals(s)) {
+					x1[c] = x1[c] + 1;
+				}
+				c++;
+			}
+			findMax(a, b + 1);
+		}
+		if (a == myGrid.length && b == myGrid[0].length) {
+			System.out.println(output());
+			return;
+		}
+	}
+	
+	public String toString()
+	{
+		return "";
+	}
+
+	public boolean exists(int row, int col) {
+		return (row >= 0 && col >= 0) && (row < myGrid.length && col < myGrid[0].length);
+	}
+
+	public String findMax(String string) {
+		
+		return null;
+	}
+
+}
