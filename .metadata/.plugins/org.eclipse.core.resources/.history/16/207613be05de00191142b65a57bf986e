@@ -1,0 +1,13 @@
+package chessComplete;
+
+public class ChessCompleteRunner {
+	public static void main(String[] args) {
+		ChessComplete one = new ChessComplete(8);
+		one.move(0, 0);
+		one.displayBoard();
+		System.out.print(&quot;Recursive method call count:
+		&quot;);
+		System.out.printf(&quot;%,d&quot;, +one.getSteps());
+		System.out.println();
+		}
+}

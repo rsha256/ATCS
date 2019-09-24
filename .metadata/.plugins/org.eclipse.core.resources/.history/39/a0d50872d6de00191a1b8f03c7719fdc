@@ -1,0 +1,42 @@
+package chessComplete;
+
+public class ChessComplete {
+
+	private int[][] grid;
+	int x = 0, y = 0;
+	private int steps = 0;
+
+	public ChessComplete(int i) {
+		grid = new int[i][i];
+	}
+
+	public boolean move(int x, int y) {
+		return move(x, y, 1);
+	}
+
+	public boolean move(int x, int y, int counter) {
+		steps++;
+		this.x = x;
+		this.y = y;
+		if (x < 0 || y < 0 || x >= grid.length || y >= grid.length)
+			return false;
+		if (counter == 25) {
+			grid[x][y] = 25;
+			return true;
+		} else {
+			grid[x][y]= counter; 
+			return (move(x+1, y+2) || move(x+2, y+1) 
+					|| move(x-2, y+1) || move(x-1, y+2)
+					|| move(x-2, y-1) || move(x-1, y-2)
+					|| move(x+2, y-1) || move(x+1, y-2));
+		}
+	}
+
+	public void displayBoard() {
+
+	}
+	
+	public int getSteps() {
+		return steps;
+	}
+}

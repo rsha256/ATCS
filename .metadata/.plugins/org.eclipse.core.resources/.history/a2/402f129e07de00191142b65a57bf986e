@@ -1,0 +1,12 @@
+package chessComplete;
+
+public class ChessComplete {
+	
+	private int[][] grid;
+	int x = 0, y = 0;
+	
+	public ChessComplete(int i) {
+		grid = new int[i][i];
+	}
+
+}

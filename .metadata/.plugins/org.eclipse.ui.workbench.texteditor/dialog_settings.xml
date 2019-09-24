@@ -6,12 +6,12 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="print"/>
+		<item key="selection" value="&quot;"/>
 		<list key="findhistory">
+			<item value="&amp;quot;"/>
 			<item value="print"/>
 			<item value="exist"/>
 			<item value="package grid;"/>
-			<item value="&amp;quot;"/>
 			<item value="&amp;#39;"/>
 		</list>
 		<list key="replacehistory">

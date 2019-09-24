@@ -1,0 +1,21 @@
+package chessComplete;
+
+public class ChessComplete {
+	
+	private int[][] grid;
+	int x = 0, y = 0;
+	private int steps = 0;
+	
+	public ChessComplete(int i) {
+		grid = new int[i][i];
+	}
+	
+	public void move(int x, int y) {
+		this.x = x;
+		this.y = y;
+	}
+	
+	public void displayBoard() {
+		
+	}
+}

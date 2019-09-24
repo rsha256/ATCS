@@ -1,8 +1,0 @@
-package grid;
-
-public class Grid {
-
-	public Grid(int a, int b, String[][] l) {}
-	
-	
-}

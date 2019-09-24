@@ -6,4 +6,6 @@
 <fullyQualifiedTypeName name="grid.Grid"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="chessComplete.ChessComplete"/>
 </qualifiedTypeNameHistroy>
