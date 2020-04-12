@@ -2,15 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d04d1f-4f96-437b-8aac-8431e2229512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuizCH4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/circular/CircularRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grade/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grade/StudentGrades2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/grade/StudentMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashtable/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashtable/HashTableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashtable/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashtable/NumberTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inClassAssessment/OrderOfOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inClassAssessment/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inClassAssessment/SyntaxChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inClassAssessment/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/word/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/word/HashTableRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/word/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/word/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/word/WordTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.core/.launches/Main.launch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ATCS/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ATCS/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SubStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/DeshmukhShah.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/DeshmukhShah.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/DeshmukhShah2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/DeshmukhShah2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/GridRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/GridRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/PermuRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/PermuRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/chessComplete/ChessComplete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/chessComplete/ChessCompleteRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/chessComplete/ChessCompleteRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/grid/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/grid/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/grid/GridRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/grid/GridRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/grid/Maze.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/grid/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/maze/ShahDeshmukh.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/maze/ShahDeshmukh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/quadratic/ArrayUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/quadratic/ArrayUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/quadratic/MergeSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/quadratic/MergeSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/quadratic/SelectionSortTimer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/quadratic/SelectionSortTimer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/quadratic/SelectionSorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/quadratic/SelectionSorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/quadratic/Sorts.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/quadratic/Sorts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recursion/src/quadratic/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Recursion/src/quadratic/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classroom/Polynomial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ATCS/Main.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,14 +55,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/word/Word.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            <state relative-caret-position="552">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
-                <element signature="e#63#64#0" expanded="true" />
-                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#139#140#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/word/HashTableRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="514">
+              <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/word/HashTable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/word/WordTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/word/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="167">
+              <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+              <folding>
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#370#371#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#449#450#0" expanded="true" />
+                <element signature="e#484#485#0" expanded="true" />
+                <element signature="e#536#537#0" expanded="true" />
+                <element signature="e#569#570#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,6 +137,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>pd</find>
+      <find>font s</find>
+      <find>loop</find>
+      <find>owl &amp; obj is ow</find>
+      <find>owl &amp; obj is owl</find>
+      <find>owl a is</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -71,13 +164,31 @@
         <option value="$PROJECT_DIR$/src/Worksheet.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/inClassAssessment/SyntaxChecker.java" />
+        <option value="$PROJECT_DIR$/src/inClassAssessment/Tester.java" />
+        <option value="$PROJECT_DIR$/src/inClassAssessment/Reverse.java" />
+        <option value="$PROJECT_DIR$/src/inClassAssessment/PEMDAS.java" />
+        <option value="$PROJECT_DIR$/src/inClassAssessment/OrderOfOps.java" />
+        <option value="$PROJECT_DIR$/src/circular/CircularRunner.java" />
+        <option value="$PROJECT_DIR$/src/grade/StudentMap.java" />
+        <option value="$PROJECT_DIR$/src/grade/Student.java" />
+        <option value="$PROJECT_DIR$/src/grade/StudentGrades2.java" />
+        <option value="$PROJECT_DIR$/src/QuizCH4.java" />
+        <option value="$PROJECT_DIR$/src/hashtable/NumberTester.java" />
+        <option value="$PROJECT_DIR$/src/hashtable/HashTable.java" />
+        <option value="$PROJECT_DIR$/src/hashtable/Number.java" />
+        <option value="$PROJECT_DIR$/src/hashtable/HashTableRunner.java" />
+        <option value="$PROJECT_DIR$/src/word/WordTester.java" />
+        <option value="$PROJECT_DIR$/src/word/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/word/HashTableRunner.java" />
+        <option value="$PROJECT_DIR$/src/word/Word.java" />
+        <option value="$PROJECT_DIR$/src/word/HashTable.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="37" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1403" />
+    <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -89,7 +200,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,23 +212,38 @@
               <item name="ATCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ATCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hashtable" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="word" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/pd1" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/word" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/word" />
       <recent name="$PROJECT_DIR$/src/pd1" />
     </key>
   </component>
@@ -134,13 +259,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SubStudy">
-    <configuration name="HistoListRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="histo.HistoListRunner" />
+  <component name="RunManager" selected="Application.HashTableRunner (1)">
+    <configuration name="HashTableRunner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="word.HashTableRunner" />
       <module name="ATCS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="histo.*" />
+          <option name="PATTERN" value="word.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pd2.MyList" />
+    <configuration name="HashTableRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashtable.HashTableRunner" />
       <module name="ATCS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pd2.*" />
+          <option name="PATTERN" value="hashtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pd1.MyList" />
+    <configuration name="NumberTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashtable.NumberTester" />
       <module name="ATCS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pd1.*" />
+          <option name="PATTERN" value="hashtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,27 +299,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubStudy" />
+    <configuration name="QuizCH4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="QuizCH4" />
       <module name="ATCS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Worksheet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Worksheet" />
+    <configuration name="WordTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="word.WordTester" />
       <module name="ATCS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="word.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SubStudy" />
-        <item itemvalue="Application.Worksheet" />
-        <item itemvalue="Application.HistoListRunner" />
-        <item itemvalue="Application.MyList (1)" />
-        <item itemvalue="Application.MyList" />
+        <item itemvalue="Application.HashTableRunner (1)" />
+        <item itemvalue="Application.WordTester" />
+        <item itemvalue="Application.NumberTester" />
+        <item itemvalue="Application.HashTableRunner" />
+        <item itemvalue="Application.QuizCH4" />
       </list>
     </recent_temporary>
   </component>
@@ -217,14 +348,30 @@
       <workItem from="1576764172692" duration="3234000" />
       <workItem from="1578668709714" duration="1233000" />
       <workItem from="1578872680535" duration="153000" />
+      <workItem from="1580098352060" duration="115000" />
+      <workItem from="1580098517550" duration="2110000" />
+      <workItem from="1582033563503" duration="14000" />
+      <workItem from="1582033612804" duration="2525000" />
+      <workItem from="1582811422908" duration="83000" />
+      <workItem from="1582811542316" duration="153000" />
+      <workItem from="1583754458187" duration="76000" />
+      <workItem from="1583754591230" duration="541000" />
+      <workItem from="1584541935930" duration="1692000" />
+      <workItem from="1584690044910" duration="2036000" />
+      <workItem from="1584724458895" duration="2919000" />
+      <workItem from="1584999436317" duration="1391000" />
+      <workItem from="1585577967695" duration="56000" />
+      <workItem from="1585578106050" duration="1962000" />
+      <workItem from="1585604871602" duration="1213000" />
+      <workItem from="1585920684412" duration="5689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15820000" />
+    <option name="totallyTimeSpent" value="38395000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
@@ -233,11 +380,11 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.27825466" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.26037195" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297362" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297362" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.58153474" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -247,7 +394,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297362" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.3297362" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -371,13 +518,211 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/inClassAssessment/OrderOfOps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="124" column="45" selection-start-line="124" selection-start-column="45" selection-end-line="124" selection-end-column="45" />
+          <folding>
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inClassAssessment/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inClassAssessment/SyntaxChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="e#1352#1353#0" expanded="true" />
+            <element signature="e#1451#1452#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="e#63#64#0" expanded="true" />
             <element signature="e#109#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/inClassAssessment/Tester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/circular/MyQueue.java" />
+    <entry file="file://$PROJECT_DIR$/src/circular/CircularRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#1221#1222#0" expanded="true" />
+            <element signature="e#1253#1254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grade/StudentMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grade/StudentGrades2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="108" column="47" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/grade/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="51" column="50" selection-start-line="51" selection-start-column="50" selection-end-line="51" selection-end-column="50" />
+          <folding>
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#628#629#0" expanded="true" />
+            <element signature="e#1058#1059#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+            <element signature="e#1132#1133#0" expanded="true" />
+            <element signature="e#1195#1196#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/QuizCH4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hashtable/Number.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hashtable/NumberTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hashtable/HashTableRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/numbers.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Downloads/java_1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hashtable/HashTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/words.dat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/word/WordTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/word/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/word/HashTableRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/word/Word.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/word/HashTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="48" column="56" selection-start-line="48" selection-start-column="56" selection-end-line="48" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

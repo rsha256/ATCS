@@ -11,38 +11,6 @@ public class Polynomial {
 		one = new LinkedList<Term>();
 	}
 
-//	public void addTerm(int c, int p) {
-//		if (one.isEmpty()) {
-//			one.add(new Term(c, p));
-//			return;
-//		}
-//		
-//		int h = Integer.MIN_VALUE;
-//		for (Term t : one) {
-//			int x = t.getPow();
-//			if (x > h) {
-//				h = x;
-//			}
-//		}
-//
-//		ListIterator<Term> iter = one.listIterator();
-//
-//		while (iter.hasNext()) {
-//			Term n = iter.next();
-//			int po = n.getPow();
-//			if (po < h && p < po) {
-//				iter.add(new Term(c, p));
-//			}
-//			if (po == h) {
-//				int tot = n.getCoeff() + c;
-//				if (tot != 0) {
-//					iter.add(new Term(tot, p));
-//				}
-//			}
-//		}
-//
-//	}
-
 	public void addTerm(int c, int p) {
 		if (c == 0) {
 			return;
