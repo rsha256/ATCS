@@ -15,9 +15,7 @@ public class ClubMapTester {
             String[] studentInfo=nextLine.split("\t", -1);;
 
             String[] s = new String[4];
-            for (int i = 0; i < 4; i++) {
-                s[i] = studentInfo[i];
-            }
+            System.arraycopy(studentInfo, 0, s, 0, 4);
             Student student = new Student(s[0], s[1], s[2]);
             myClubMap.addStudent(student, s[3]);
         }
