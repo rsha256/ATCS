@@ -39,4 +39,9 @@ public class Student implements Comparable {
     public String getLast() {
         return last;
     }
+
+    @Override
+    public String toString() {
+        return this.getLast()+" "+this.getFirst()+" "+this.getId()+"";
+    }
 }

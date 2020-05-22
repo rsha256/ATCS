@@ -6,15 +6,26 @@ import java.util.Scanner;
 
 public class ClubMapTester {
     public static void main(String[] args) throws FileNotFoundException {
-        Scanner myScanner = new Scanner(new File("student.txt"));
-        StringBuilder input = new StringBuilder();
-        while (myScanner.hasNext())
-            input.append(myScanner.nextLine());
-        String[] studentInfo = input.toString().split("\t", -1);
-
+        // Build map based on data from student.txt
+        Scanner myScanner = new Scanner(new File("src/schoolClub/student.txt"));
         ClubMap myClubMap = new ClubMap();
 
+        while (myScanner.hasNext()) {
+            String nextLine = myScanner.nextLine();
+            String[] studentInfo=nextLine.split("\t", -1);;
 
+            String[] s = new String[4];
+            for (int i = 0; i < 4; i++) {
+                s[i] = studentInfo[i];
+            }
+            Student student = new Student(s[0], s[1], s[2]);
+            myClubMap.addStudent(student, s[3]);
+        }
 
+        // Prints the list for club (“Math”)
+        System.out.println(myClubMap.printStudents("Math")+"\n\n");
+
+        // Display mapping
+        myClubMap.printClubs();
     }
 }

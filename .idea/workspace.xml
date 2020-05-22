@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d04d1f-4f96-437b-8aac-8431e2229512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/schoolClub/ClubMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/schoolClub/ClubMapTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/schoolClub/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolClub/ClubMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolClub/ClubMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolClub/ClubMapTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolClub/ClubMapTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolClub/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolClub/Student.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +18,18 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/schoolClub/ClubMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="322">
+              <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#797#798#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -31,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/schoolClub/ClubMapTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="-193">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,14 +47,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/schoolClub/student.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1412" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/schoolClub/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="44" column="66" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="66" />
               <folding>
+                <element signature="e#765#766#0" expanded="true" />
                 <element signature="e#790#791#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
                 <element signature="e#850#851#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
                 <element signature="e#908#909#0" expanded="true" />
+                <element signature="e#954#955#0" expanded="true" />
+                <element signature="e#1025#1026#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -117,9 +135,9 @@
         <option value="$PROJECT_DIR$/src/hash/Wrestler.java" />
         <option value="$PROJECT_DIR$/src/hash/TeamSet.java" />
         <option value="$PROJECT_DIR$/src/hash/TeamMap.java" />
-        <option value="$PROJECT_DIR$/src/schoolClub/Student.java" />
         <option value="$PROJECT_DIR$/src/schoolClub/ClubMap.java" />
         <option value="$PROJECT_DIR$/src/schoolClub/ClubMapTester.java" />
+        <option value="$PROJECT_DIR$/src/schoolClub/Student.java" />
       </list>
     </option>
   </component>
@@ -136,6 +154,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,8 +178,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -190,13 +208,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TeamMapRunner">
-    <configuration name="HashTableRunner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="word.HashTableRunner" />
+  <component name="RunManager" selected="Application.ClubMapTester">
+    <configuration name="ClubMapTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="schoolClub.ClubMapTester" />
       <module name="ATCS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="word.*" />
+          <option name="PATTERN" value="schoolClub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +222,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hashtable.NumberTester" />
+    <configuration name="HashTableRunner (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="word.HashTableRunner" />
       <module name="ATCS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hashtable.*" />
+          <option name="PATTERN" value="word.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,11 +276,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClubMapTester" />
         <item itemvalue="Application.TeamMapRunner" />
         <item itemvalue="Application.TeamSetRunner" />
         <item itemvalue="Application.HashTableRunner (1)" />
         <item itemvalue="Application.WordTester" />
-        <item itemvalue="Application.NumberTester" />
       </list>
     </recent_temporary>
   </component>
@@ -304,11 +322,13 @@
       <workItem from="1587653663091" duration="107000" />
       <workItem from="1587653837985" duration="1486000" />
       <workItem from="1587999753734" duration="3032000" />
+      <workItem from="1590110418902" duration="12000" />
+      <workItem from="1590110474719" duration="2634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43020000" />
+    <option name="totallyTimeSpent" value="45666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -320,11 +340,11 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.26752505" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.2746781" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297362" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.58033574" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.58033574" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -751,34 +771,47 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolClub/student.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolClub/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="-1412" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolClub/ClubMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
           <folding>
-            <element signature="e#790#791#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolClub/ClubMapTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="-193">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolClub/ClubMap.java">
+    <entry file="file://$PROJECT_DIR$/src/schoolClub/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="105">
+          <caret line="44" column="66" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="66" />
+          <folding>
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
