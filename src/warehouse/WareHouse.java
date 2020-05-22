@@ -29,6 +29,15 @@ public class WareHouse {
      * if the item already exists in the aisle increment the count of the item by 1;
      */
     public void addItem(Item newItem) {
+        int aisle = newItem.getBarCode() % 100;
+        for (Item i : inventory[aisle]) {
+            if (i.getName().equals(newItem.getName())) {
+                i.increment();
+                return;
+            }
+        }
+
+        inventory[aisle].add(newItem);
 
     }
 
@@ -37,12 +46,26 @@ public class WareHouse {
      * the sum of price * count of each item stored in the warehouse
      */
     public double totalValue() {
+        double price = 0;
+
+        for (ArrayList<Item> a : inventory) {
+            for (Item i : a) {
+                price += i.getPrice() * i.getCount();
+            }
+        }
+
+        return price;
     }
 
     /**
      * This counts all of the items in a particular aisle x
      */
     public int getAisleCount(int x) {
+        int c = 0;
+        for (Item i : inventory[x]) {
+            c += i.getCount();
+        }
+        return c;
     }
 
     /**
@@ -50,6 +73,18 @@ public class WareHouse {
      * every nonempty aisle
      */
     public void displayAisleCounts() {
+        System.out.println("Aisle Count");
+
+        int n = 0;
+
+        for (ArrayList<Item> a : inventory) {
+            for (Item i : a) {
+                if (i.getCount() >= 1) {
+                    System.out.println(n + "\t" + i.getCount());
+                }
+            }
+            n++;
+        }
     }
 
     public static void main(String[] args) {

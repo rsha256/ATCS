@@ -21,6 +21,22 @@ public class Item {
         count = 1;
     }
 
+    public void increment() {
+        count++;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public int getCount() {
+        return count;
+    }
+
+    public String getName() {
+        return name;
+    }
+
     /**
      * An items unique barcode is created by adding up the digits of the price
      * That sum is multiplied by the number of characters in the name
@@ -28,7 +44,9 @@ public class Item {
      * for example Item (hat 1.99) (1+9+9) * 3 * 31 ==> 1767
      */
     public int getBarCode() {
-        IntStream chars = (price+"").chars(); // yee java streams
-        return (chars.sum())+name.length()*31;
+        return (1 + String.valueOf(price*100)
+                .chars()
+                .map(Character::getNumericValue)
+                .sum()) * name.length() * 31;
     }
 }
