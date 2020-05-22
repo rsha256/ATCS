@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d04d1f-4f96-437b-8aac-8431e2229512" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/treeProject1/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/warehouse/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/warehouse/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/warehouse/WareHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/warehouse/WareHouse.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,29 +20,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/warehouse/Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="20" />
-              <folding>
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#592#593#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
-                <element signature="e#649#650#0" expanded="true" />
-                <element signature="e#680#681#0" expanded="true" />
-                <element signature="e#707#708#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/warehouse/WareHouse.java">
+        <entry file="file://$PROJECT_DIR$/src/treeProject1/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+            <state relative-caret-position="-791">
+              <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+              <folding>
+                <element signature="e#78#79#0" expanded="true" />
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#167#168#0" expanded="true" />
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#1130#1131#0" expanded="true" />
+                <element signature="e#1164#1165#0" expanded="true" />
+                <element signature="e#1215#1216#0" expanded="true" />
+                <element signature="e#1247#1248#0" expanded="true" />
+                <element signature="e#1300#1301#0" expanded="true" />
+                <element signature="e#1334#1335#0" expanded="true" />
+                <element signature="e#1363#1364#0" expanded="true" />
+                <element signature="e#1391#1392#0" expanded="true" />
+                <element signature="e#1433#1434#0" expanded="true" />
+                <element signature="e#1460#1461#0" expanded="true" />
+                <element signature="e#1503#1504#0" expanded="true" />
+                <element signature="e#1531#1532#0" expanded="true" />
+                <element signature="e#1577#1578#0" expanded="true" />
+                <element signature="e#1621#1622#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +128,8 @@
         <option value="$PROJECT_DIR$/src/hashPhone/PhoneTesterA.java" />
         <option value="$PROJECT_DIR$/src/warehouse/Item.java" />
         <option value="$PROJECT_DIR$/src/warehouse/WareHouse.java" />
+        <option value="$PROJECT_DIR$/src/treeProject1/Node.java" />
+        <option value="$PROJECT_DIR$/src/treeProject1/Tree.java" />
       </list>
     </option>
   </component>
@@ -157,7 +164,7 @@
               <item name="ATCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="ATCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="warehouse" type="462c0819:PsiDirectoryNode" />
+              <item name="treeProject1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,7 +200,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WareHouse">
+  <component name="RunManager" selected="Application.Tree">
     <configuration name="ClubMapTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="schoolClub.ClubMapTester" />
       <module name="ATCS" />
@@ -233,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeamSetRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.TeamSetRunner" />
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treeProject1.Tree" />
       <module name="ATCS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash.*" />
+          <option name="PATTERN" value="treeProject1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -261,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tree" />
         <item itemvalue="Application.WareHouse" />
         <item itemvalue="Application.PhoneTesterA" />
         <item itemvalue="Application.ClubMapTester" />
         <item itemvalue="Application.TeamMapRunner" />
-        <item itemvalue="Application.TeamSetRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -308,12 +315,12 @@
       <workItem from="1587653837985" duration="1486000" />
       <workItem from="1587999753734" duration="3032000" />
       <workItem from="1590110418902" duration="12000" />
-      <workItem from="1590110474719" duration="12889000" />
+      <workItem from="1590110474719" duration="16119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55921000" />
+    <option name="totallyTimeSpent" value="59151000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -389,33 +396,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/pd1/Linkable.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pd2/Linkable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pd2/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#566#567#0" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/histo/HistoList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -873,8 +853,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/warehouse/WareHouse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        <state relative-caret-position="1288">
+          <caret line="56" column="21" lean-forward="true" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/treeProject1/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="48" selection-start-line="2" selection-end-line="48" />
+          <folding>
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/treeProject1/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-791">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="e#78#79#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#1130#1131#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1247#1248#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+            <element signature="e#1334#1335#0" expanded="true" />
+            <element signature="e#1363#1364#0" expanded="true" />
+            <element signature="e#1391#1392#0" expanded="true" />
+            <element signature="e#1433#1434#0" expanded="true" />
+            <element signature="e#1460#1461#0" expanded="true" />
+            <element signature="e#1503#1504#0" expanded="true" />
+            <element signature="e#1531#1532#0" expanded="true" />
+            <element signature="e#1577#1578#0" expanded="true" />
+            <element signature="e#1621#1622#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
