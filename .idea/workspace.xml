@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1d04d1f-4f96-437b-8aac-8431e2229512" name="Default Changelist" comment="" />
+    <list default="true" id="d1d04d1f-4f96-437b-8aac-8431e2229512" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/treeProject2/Tree.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,34 +20,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/treeProject1/Tree.java">
+        <entry file="file://$PROJECT_DIR$/src/treeProject2/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1882">
-              <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
-              <folding>
-                <element signature="e#78#79#0" expanded="true" />
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#133#134#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-                <element signature="e#263#264#0" expanded="true" />
-                <element signature="e#299#300#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-                <element signature="e#1130#1131#0" expanded="true" />
-                <element signature="e#1164#1165#0" expanded="true" />
-                <element signature="e#1215#1216#0" expanded="true" />
-                <element signature="e#1247#1248#0" expanded="true" />
-                <element signature="e#1300#1301#0" expanded="true" />
-                <element signature="e#1334#1335#0" expanded="true" />
-                <element signature="e#1363#1364#0" expanded="true" />
-                <element signature="e#1391#1392#0" expanded="true" />
-                <element signature="e#1433#1434#0" expanded="true" />
-                <element signature="e#1460#1461#0" expanded="true" />
-                <element signature="e#1503#1504#0" expanded="true" />
-                <element signature="e#1531#1532#0" expanded="true" />
-                <element signature="e#1577#1578#0" expanded="true" />
-                <element signature="e#1621#1622#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="199">
+              <caret line="117" column="17" lean-forward="true" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -127,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/warehouse/WareHouse.java" />
         <option value="$PROJECT_DIR$/src/treeProject1/Node.java" />
         <option value="$PROJECT_DIR$/src/treeProject1/Tree.java" />
+        <option value="$PROJECT_DIR$/src/treeProject2/Tree.java" />
       </list>
     </option>
   </component>
@@ -161,7 +140,7 @@
               <item name="ATCS" type="b2602c69:ProjectViewProjectNode" />
               <item name="ATCS" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="treeProject1" type="462c0819:PsiDirectoryNode" />
+              <item name="treeProject2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -180,6 +159,9 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="treeProject2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/word" />
       <recent name="$PROJECT_DIR$/src/pd1" />
@@ -197,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Tree">
+  <component name="RunManager" selected="Application.Tree (1)">
     <configuration name="ClubMapTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="schoolClub.ClubMapTester" />
       <module name="ATCS" />
@@ -224,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TeamMapRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hash.TeamMapRunner" />
+    <configuration name="Tree (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treeProject2.Tree" />
       <module name="ATCS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hash.*" />
+          <option name="PATTERN" value="treeProject2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tree (1)" />
         <item itemvalue="Application.Tree" />
         <item itemvalue="Application.WareHouse" />
         <item itemvalue="Application.PhoneTesterA" />
         <item itemvalue="Application.ClubMapTester" />
-        <item itemvalue="Application.TeamMapRunner" />
       </list>
     </recent_temporary>
   </component>
@@ -312,12 +294,12 @@
       <workItem from="1587653837985" duration="1486000" />
       <workItem from="1587999753734" duration="3032000" />
       <workItem from="1590110418902" duration="12000" />
-      <workItem from="1590110474719" duration="16544000" />
+      <workItem from="1590110474719" duration="17051000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59576000" />
+    <option name="totallyTimeSpent" value="60083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -393,13 +375,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/histo/HistoList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/histo/HistoNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -871,8 +846,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/treeProject1/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1882">
-          <caret line="91" lean-forward="true" selection-start-line="91" selection-end-line="91" />
+        <state relative-caret-position="255">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="e#78#79#0" expanded="true" />
             <element signature="e#105#106#0" expanded="true" />
@@ -897,6 +872,13 @@
             <element signature="e#1577#1578#0" expanded="true" />
             <element signature="e#1621#1622#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/treeProject2/Tree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="117" column="17" lean-forward="true" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
         </state>
       </provider>
     </entry>
