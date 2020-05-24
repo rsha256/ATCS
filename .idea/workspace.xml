@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1d04d1f-4f96-437b-8aac-8431e2229512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/treeProject2/Tree.java" afterDir="false" />
-    </list>
+    <list default="true" id="d1d04d1f-4f96-437b-8aac-8431e2229512" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/treeProject2/Tree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="117" column="17" lean-forward="true" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
+            <state relative-caret-position="267">
+              <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -294,12 +292,12 @@
       <workItem from="1587653837985" duration="1486000" />
       <workItem from="1587999753734" duration="3032000" />
       <workItem from="1590110418902" duration="12000" />
-      <workItem from="1590110474719" duration="17051000" />
+      <workItem from="1590110474719" duration="17441000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60083000" />
+    <option name="totallyTimeSpent" value="60473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
@@ -877,8 +875,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/treeProject2/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="117" column="17" lean-forward="true" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
+        <state relative-caret-position="267">
+          <caret line="56" column="8" lean-forward="true" selection-start-line="56" selection-start-column="8" selection-end-line="56" selection-end-column="8" />
         </state>
       </provider>
     </entry>
