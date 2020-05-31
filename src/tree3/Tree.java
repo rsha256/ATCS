@@ -148,6 +148,25 @@ public class Tree {
         return "[" + tmp.substring(0, tmp.length() - 2) + "]";
     }
 
+    public void print() {
+        String prefix = "";
+        TreeNode n = root;
+        boolean isLeft = false;
+        if (n != null) {
+            System.out.println(prefix + (isLeft ? "|-- " : "\\-- ") + n.value);
+            print(prefix + (isLeft ? "|   " : "    "), n.left, true);
+            print(prefix + (isLeft ? "|   " : "    "), n.right, false);
+        }
+    }
+
+    public void print(String prefix, TreeNode n, boolean isLeft) {
+        if (n != null) {
+            System.out.println(prefix + (isLeft ? "|-- " : "\\-- ") + n.value);
+            print(prefix + (isLeft ? "|   " : "    "), n.left, true);
+            print(prefix + (isLeft ? "|   " : "    "), n.right, false);
+        }
+    }
+
     public static void main(String[] args) {
         int[] a = {10, 2, 12, 1, 7, 5, 4, 6, 8, 15, 19};
         Tree one = new Tree(a);
