@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1d04d1f-4f96-437b-8aac-8431e2229512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/rahul.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treeProject5/HistoNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treeProject5/HistoTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/treeProject5/HistoTreeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treeProject6/ThingCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/treeProject6/ThingTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,53 +21,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/treeProject5/HistoNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="e#359#360#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
-                <element signature="e#654#655#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#728#729#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#798#799#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
-                <element signature="e#868#869#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/treeProject5/HistoTree.java">
+        <entry file="file://$PROJECT_DIR$/src/treeProject6/ThingCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+            <state relative-caret-position="261">
+              <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
               <folding>
-                <element signature="e#139#140#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#355#356#0" expanded="true" />
+                <element signature="e#375#376#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+                <element signature="e#381#382#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#438#439#0" expanded="true" />
+                <element signature="e#710#711#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/treeProject5/HistoTreeRunner.java">
+        <entry file="file://$PROJECT_DIR$/src/treeProject6/ThingTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-251">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="444">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -104,8 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/histograms/HistoList.java" />
-        <option value="$PROJECT_DIR$/src/histograms/HistoListRunner.java" />
         <option value="$PROJECT_DIR$/src/histo/HistoNode.java" />
         <option value="$PROJECT_DIR$/src/histo/HistoListRunner.java" />
         <option value="$PROJECT_DIR$/src/pd2/MyList.java" />
@@ -155,6 +130,8 @@
         <option value="$PROJECT_DIR$/src/treeProject5/HistoTreeRunner.java" />
         <option value="$PROJECT_DIR$/src/treeProject5/HistoNode.java" />
         <option value="$PROJECT_DIR$/src/treeProject5/HistoTree.java" />
+        <option value="$PROJECT_DIR$/src/treeProject6/ThingTester.java" />
+        <option value="$PROJECT_DIR$/src/treeProject6/ThingCount.java" />
       </list>
     </option>
   </component>
@@ -173,6 +150,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,11 +187,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="treeProject5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ATCS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATCS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="treeProject6" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,13 +230,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HistoTreeRunner">
+  <component name="RunManager" selected="Application.ThingTester">
     <configuration name="HistoTreeRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="treeProject5.HistoTreeRunner" />
       <module name="ATCS" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="treeProject5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThingTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="treeProject6.ThingTester" />
+      <module name="ATCS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="treeProject6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,26 +296,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="treeProject1.Tree" />
-      <module name="ATCS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="treeProject1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThingTester" />
         <item itemvalue="Application.HistoTreeRunner" />
         <item itemvalue="Application.Tree (3)" />
         <item itemvalue="Application.Tree (2)" />
         <item itemvalue="Application.Tree (1)" />
-        <item itemvalue="Application.Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -364,12 +347,13 @@
       <workItem from="1590110418902" duration="12000" />
       <workItem from="1590110474719" duration="17441000" />
       <workItem from="1590437502541" duration="281000" />
-      <workItem from="1590770719824" duration="24475000" />
+      <workItem from="1590770719824" duration="24695000" />
+      <workItem from="1591109888150" duration="649000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85229000" />
+    <option name="totallyTimeSpent" value="86098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -381,7 +365,7 @@
       <window_info id="Capture Tool" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" sideWeight="0.5008944" side_tool="true" weight="0.2746781" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49910554" visible="true" weight="0.2811159" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49910554" visible="true" weight="0.2846924" />
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297362" />
@@ -389,13 +373,13 @@
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Terminal" order="6" weight="0.3297362" />
+      <window_info anchor="bottom" id="Terminal" order="6" visible="true" weight="0.3297362" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3297362" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.3297362" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.4556355" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.4556355" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -445,24 +429,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/inClassAssessment/OrderOfOps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="124" column="45" selection-start-line="124" selection-start-column="45" selection-end-line="124" selection-end-column="45" />
-          <folding>
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/inClassAssessment/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/inClassAssessment/SyntaxChecker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -865,13 +831,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/tree3/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree3/TreeNode.java" />
     <entry file="file://$PROJECT_DIR$/src/treeProject2/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -925,8 +885,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/treeProject5/HistoNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="173">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
           <folding>
             <element signature="e#359#360#0" expanded="true" />
             <element signature="e#386#387#0" expanded="true" />
@@ -947,23 +907,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/treeProject5/HistoTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+          <folding>
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/treeProject5/HistoTreeRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-251">
+        <state relative-caret-position="667">
           <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/treeProject5/HistoTree.java">
+    <entry file="file://$PROJECT_DIR$/src/treeProject6/ThingTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="52" column="26" lean-forward="true" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
+        <state relative-caret-position="444">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/treeProject6/ThingCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
           <folding>
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
           </folding>
         </state>
       </provider>
