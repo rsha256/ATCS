@@ -6,38 +6,54 @@ If you utilize this repository to blindly copy-paste code for repeated assignmen
 
 * Here are the highlights/assignments from each unit:
 
-## Unit 12
-- Final Project: Java FX Music Store
+## Unit 11: Final Project
+- Final Project: 
 
-## Unit 11
-- LoanCalculator (JavaFX)
+## Unit 10: Trees
+- Notable projects include: 
+  - Implemented trees from scratch
+  - Wrote methods to add a node to a BST, in order 
+  - Wrote methods to remove a node from a binary tree
+  - Wrote methods to find if a node/value is in a specific binary tree
+  - 
 
-## Unit 10
-- Introduction to JavaFX
-
-## Unit 9
+## Unit 9: HashMaps and HashSets
 - Multithreading in Java to find a number
 
-## Unit 8
-- A Contact JavaBean (the program is Serializable so that it can write the contacts to either a txt or dat file)
+## Unit 8: Sets
+- Notable projects include: 
 
-## Unit 7
-- I made a Serializable gpa calculator that writes to a binary file
+## Unit 7: Maps
+- Notable projects include: 
 
-## Unit 6
-- Song list: I made a song processor to read and write objects to and from a binary file
+## Unit 6: Prioirity Queues
+- Notable projects include: 
 
-## Unit 5
-- Song list: I made a song processor to read and write objects to and from a text file
+## Unit 5: Queues
+- Notable projects include: 
+- 
 
-## Unit 4
-- I worked with try and catch blocks to allow someone to throw exceptions a certain number of times
+## Unit 4: Stacks
+- Notable projects include: 
+  - Utilized functions such as pop to demonstrate how a Stack works with the analogy of a pile of books
+  - Reversed digits with a Stack
+  - Reversed a String with a Stack
+  - Modeled a single-lane driveway with a Stack
+  - Created a Deck of Cards in a Stack and developed numerous shuffle methods
+  - Made a program that evaluates algebraic expressions (in PEMDAS-order) with a Stack
 
 ## Unit 3: LinkedLists
-- Implemented LinkedLists from scratch, operated through LinkedLists with an iterator 
+- Notable projects include: 
+  - Implemented LinkedList from scratch with a provided ListNode class
+  - Operated through LinkedLists with an iterator 
+  - Modeled fruits with LinkedLists
+  - Modeled polynomials with LinkedLists
+  - Modeled a restaurant with a singly LinkedList, implementing various methods 
+  - Create letter and letter counts to represent a histogram of data
+  - Implemented Doubly LinkedLists from my own ListNode class
 
 ## Unit 2: Sorts and Searching
-- Discussed and researched efficiency through Big-O notation and various algorithms and operations and each of their respective time complexities. Notable projects include: Quadratic Sort Lab:
+- Discussed and researched efficiency through Big-O notation and various algorithms and operations and each of their respective time complexities. Notable labs include: Quadratic Sort Lab:
   - Create 3 graphs using data from using  bubble sort  on 1) an array in random order, 2) an array in descending order, and 3) an array in order.
   - Create 3 graphs using data from using  insertion  sort  on 1) an array in random order, 2) an array in descending order, and 3) an array in order.
   - Create 3 graphs using data from using  selection  sort  on 1) an array in random order, 2) an array in descending order, and 3) an array in order.
@@ -51,5 +67,9 @@ If you utilize this repository to blindly copy-paste code for repeated assignmen
 Received perfect score.
 
 ## Unit 1: Recursion
-- Notable projects include: Letter Pemutations, General Recursion Methods, Counting Letters in a Grid, Maze, and Game of Chess.
-
+- Notable projects include: 
+  - Letter Pemutations
+  - General Recursion Methods 
+  - Counting Letters in a Grid 
+  - Maze
+  - Game of Chess
