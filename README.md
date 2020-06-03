@@ -50,6 +50,7 @@ If you utilize this repository to blindly copy-paste code for repeated assignmen
   - Implemented a `Set` from scratch
   - Found Uniques and Dupes (Duplicates) with and without `iterator`s
   - Modeled a Coin Collection
+  - Implemented `MathSet` with union, intersection, symmetric diff and delta operators
 
 ## Unit 6: Prioirity `Queue`s
 - Notable projects include: 
