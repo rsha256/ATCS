@@ -11,27 +11,58 @@ If you utilize this repository to blindly copy-paste code for repeated assignmen
 
 ## Unit 10: Trees
 - Notable projects include: 
-  - Implemented trees from scratch
+  - Implemented a `Tree` class from scratch with a custom-built `TreeNode` class
   - Wrote methods to add a node to a BST, in order 
   - Wrote methods to remove a node from a binary tree
   - Wrote methods to find if a node/value is in a specific binary tree
-  - 
+  - Wrote methods to print binary tree in IN ORDER, PRE ORDER, POST ORDER, and REVERSE ORDER
+  - Wrote methds to find: 
+    - Tree width
+    - Number of levels in a binary tree
+    - Smallest value  a binary tree
+    - Largest value  a binary tree
+    - Number of leaves in a binary tree
+    - Number of nodes in a binary tree
+    - If the tree is or is not full and complete
+  - Modeled Histograms with custom binary `Tree`s and `TreeNode`s
 
 ## Unit 9: HashMaps and HashSets
-- Multithreading in Java to find a number
-
-## Unit 8: Sets
 - Notable projects include: 
+  - HashCodes
+  - HashTables
+  - Words
+  - Wrestler and Wrestling Team
+  - School Club Mapping
+  - HashPhone
+  - WareHouse (with `ArrayList` implementation as well)
 
-## Unit 7: Maps
+## Unit 8: `Map`s
 - Notable projects include: 
+  - Made a spanish-to-english dictionary mapping from a give `.dat` file
+  - Modeled Histogram
+  - Modeled Relatives
+  - Modeled Acronyms
+  - Modeled Autoparts
+  - Modeled `Student`s with a `Student` grade `Map`
 
-## Unit 6: Prioirity Queues
+## Unit 7: `Set`s
 - Notable projects include: 
+  - Implemented a `Set` from scratch
+  - Found Uniques and Dupes (Duplicates) with and without `iterator`s
+  - Modeled a Coin Collection
 
-## Unit 5: Queues
+## Unit 6: Prioirity `Queue`s
 - Notable projects include: 
-- 
+  - Writing `toString()`, `getMin()`, and `getNaturalOrder()` methods for PQ
+  - Modeled Swimmers with a PQ
+  - Modeled a Liver Transplant with a PQ
+  - Circular Array with a PQ
+
+## Unit 5: `Queue`s
+- Notable projects include: 
+  - Implemented a `Queue` from scratch
+  - Implemented Circular `Queue` from scratch
+  - Developed various methods to append, clone, reverse, and alternate, value in a `Queue`
 
 ## Unit 4: Stacks
 - Notable projects include: 
@@ -42,27 +73,27 @@ If you utilize this repository to blindly copy-paste code for repeated assignmen
   - Created a Deck of Cards in a Stack and developed numerous shuffle methods
   - Made a program that evaluates algebraic expressions (in PEMDAS-order) with a Stack
 
-## Unit 3: LinkedLists
+## Unit 3: `LinkedList`s
 - Notable projects include: 
-  - Implemented LinkedList from scratch with a provided ListNode class
-  - Operated through LinkedLists with an iterator 
-  - Modeled fruits with LinkedLists
-  - Modeled polynomials with LinkedLists
-  - Modeled a restaurant with a singly LinkedList, implementing various methods 
+  - Implemented `LinkedList` from scratch with a provided `ListNode` class
+  - Operated through `LinkedList`s with an `iterator` 
+  - Modeled fruits with `LinkedList`s
+  - Modeled polynomials with `LinkedList`s
+  - Modeled a restaurant with a singly `LinkedList`, implementing various methods 
   - Create letter and letter counts to represent a histogram of data
-  - Implemented Doubly LinkedLists from my own ListNode class
+  - Implemented Doubly `LinkedList`s from my own `ListNode` class
 
 ## Unit 2: Sorts and Searching
-- Discussed and researched efficiency through Big-O notation and various algorithms and operations and each of their respective time complexities. Notable labs include: Quadratic Sort Lab\*:
+- Discussed and researched efficiency through Big-O notation and various algorithms and operations and each of their respective time complexities. Notable labs include: [Quadratic Sort Lab](https://github.com/rsha256/ATCS/blob/master/SortsAndSearch/Quadratic%20Sort%20Lab.pdf)\*:
   - Create 3 graphs using data from using  bubble sort  on 1) an array in random order, 2) an array in descending order, and 3) an array in order.
   - Create 3 graphs using data from using  insertion  sort  on 1) an array in random order, 2) an array in descending order, and 3) an array in order.
   - Create 3 graphs using data from using  selection  sort  on 1) an array in random order, 2) an array in descending order, and 3) an array in order.
   - Create a chart and graph for a random array using 3 different sorts.
   - Create a chart and graph for an ordered array using 3 different sorts.
   - Create a chart and graph for an array in descending order for 3 different sorts.
-  - Explain why these are called quadratic sorts. O(n²)
-  - Which is the most efficient sort of a random array?  Why?  Which is the least efficient sort of a reverse ordered array? Why?
-  - Which of these sort situations will produce a linear relationship   O(n).  Why?
+  - Explain why these are called quadratic sorts. Use the O(n²) notation in your response.
+  - Which is the most efficient sort of a random array? Why? Which is the least efficient sort of a reverse ordered array? Why?
+  - Which of these sort situations will produce a linear relationship O(n).  Why?
 
 \* Received perfect score.
 
