@@ -4,7 +4,7 @@ My Java programs from the Advanced Topics in Computer Science Honors course at m
 Note: This contains code from my course. This repository is not intended for cheating or copying code. This is simply for reference and for learning purposes. Any violation of academic integrity off this code is not intended and the creator of this repository is not to be blamed for.
 If you utilize this repository to blindly copy-paste code for repeated assignments, you are only cheating yourself out of learning.
 
-* Here are the highlights/assignments from each unit:
+### Here are the highlights/assignments from each unit:
 
 ## Unit 11: Final Project
 - Final Project: 
@@ -53,7 +53,7 @@ If you utilize this repository to blindly copy-paste code for repeated assignmen
   - Implemented Doubly LinkedLists from my own ListNode class
 
 ## Unit 2: Sorts and Searching
-- Discussed and researched efficiency through Big-O notation and various algorithms and operations and each of their respective time complexities. Notable labs include: Quadratic Sort Lab:
+- Discussed and researched efficiency through Big-O notation and various algorithms and operations and each of their respective time complexities. Notable labs include: Quadratic Sort Lab\*:
   - Create 3 graphs using data from using  bubble sort  on 1) an array in random order, 2) an array in descending order, and 3) an array in order.
   - Create 3 graphs using data from using  insertion  sort  on 1) an array in random order, 2) an array in descending order, and 3) an array in order.
   - Create 3 graphs using data from using  selection  sort  on 1) an array in random order, 2) an array in descending order, and 3) an array in order.
@@ -64,7 +64,7 @@ If you utilize this repository to blindly copy-paste code for repeated assignmen
   - Which is the most efficient sort of a random array?  Why?  Which is the least efficient sort of a reverse ordered array? Why?
   - Which of these sort situations will produce a linear relationship   O(n).  Why?
 
-Received perfect score.
+\* Received perfect score.
 
 ## Unit 1: Recursion
 - Notable projects include: 
