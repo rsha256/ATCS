@@ -22,7 +22,6 @@ public class Tree {
             add(i);
     }
 
-
     public void add(int val) {
         root = addHelper(root, val);
     }
