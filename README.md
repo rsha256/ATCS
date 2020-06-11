@@ -4,18 +4,20 @@ My Java programs from the Advanced Topics in Computer Science Honors course at m
 Note: This contains code from my course. This repository is not intended for cheating or copying code. This is simply for reference and for learning purposes. Any violation of academic integrity off this code is not intended and the creator of this repository is not to be blamed for.
 If you utilize this repository to blindly copy-paste code for repeated assignments, you are only cheating yourself out of learning.
 
-### Here are the highlights/assignments from each unit:
+#### **Here are the highlights/assignments from each unit:**
 
-## Unit 11: Final Project
-- Final Project: 
+## Unit 11: Heaps
+- Heaps are Trees, but unlike Binary Seach Trees, they are array-based — with either the min or max value at the root.
+- Implemented min-heap (smallest value at the root)
+- Implemented max-heap (largest value at the root)
 
 ## Unit 10: Trees
 - Notable projects include: 
   - Implemented a `Tree` class from scratch with a custom-built `TreeNode` class
-  - Wrote methods to add a node to a BST, in order 
-  - Wrote methods to remove a node from a binary tree
+  - Wrote methods to add a `Node` to a BST, in order 
+  - Wrote methods to remove a `Node` from a binary tree
   - Wrote methods to find if a node/value is in a specific binary tree
-  - Wrote methods to print binary tree in IN ORDER, PRE ORDER, POST ORDER, and REVERSE ORDER
+  - Wrote methods to print binary tree in in-order, pre-order, post-order, and reverse-order
   - Wrote methds to find: 
     - Tree width
     - Number of levels in a binary tree
